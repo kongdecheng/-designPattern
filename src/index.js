@@ -93,7 +93,7 @@
 // p.add = function () {}
 
 /**
- * 在原有方法上添加日志功能
+ * 在原有方法上添加日志功能23
  */
 function log(target, name, descriptor) {
     console.log(arguments, 'arguments')
